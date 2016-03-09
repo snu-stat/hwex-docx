@@ -7,7 +7,7 @@
 * (예) report.md
 
 ## 문서 작성에 사용된 파일
-* report.Rmd
+* (예) report.Rmd
 
 ## 소스 코드
 (예)
