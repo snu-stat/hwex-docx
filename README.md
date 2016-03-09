@@ -20,3 +20,7 @@
 
 ## 문서 작성 방법
 (예) R Markdown을 사용하여 생성된 GitHub-Flavored Markdown, Jupter Notebook 등
+
+## 컴파일 및 실행
+
+필요하다고 생각할 경우 설명. 적지 않을 경우 조교가 코드를 실행하는 방법을 issue를 통해 물어볼 수도 있습니다. 조교는 Python, R, C, C++, JAVA, Matlab, Makefile 등등에 대해 알고 있습니다.
