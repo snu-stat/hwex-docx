@@ -4,7 +4,7 @@
 ## 제출 파일 목록
 
 ## 레포트 파일
-* (예) report.md
+* (예) report.html
 
 ## 문서 작성에 사용된 파일
 * (예) report.Rmd
@@ -19,11 +19,11 @@
 * 4_b.R
 
 ## 문서 작성 방법
-(예) R Markdown을 사용하여 생성된 GitHub-Flavored Markdown, Jupter Notebook 등
+(예) R Markdown Notebook, R Markdown을 사용하여 생성된 GitHub-Flavored Markdown, Jupter Notebook 등
 
 ## 컴파일 및 실행
 
-필요하다고 생각할 경우 설명. 적지 않을 경우 조교가 코드를 실행하는 방법을 issue를 통해 물어볼 수도 있습니다. 조교는 Python, R, Matlab, C, C++, JAVA, Makefile 등등에 대해 알고 있습니다.
+필요할 경우 설명. 적지 않을 경우 조교가 코드를 실행하는 방법을 issue를 통해 물어볼 수도 있습니다. 
 
 
-__숙제 제출 전 [숙제 규칙](https://github.com/snu-stat/commonplace-compstat2016/wiki/숙제-규칙)을 반드시 확인하세요!!!!!!!__
+__숙제 제출 전 [숙제 규칙](https://github.com/snu-stat/cs17-commonplace)을 반드시 확인하세요!!!!!!!__
